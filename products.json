@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "santro",
+      "color": "blue",
+      "id": 1
+    },
+    {
+      "name": "i-10",
+      "color": "red",
+      "id": 2
+    },
+    {
+      "name": "i-20",
+      "color": "cement",
+      "id": 3
+    },
+    {
+      "name": "brezza",
+      "color": "brown",
+      "id": 4
+    }
+  ]
+}
